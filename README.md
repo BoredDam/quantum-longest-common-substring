@@ -1,6 +1,6 @@
 # A Quantum Longest Common Substring Implementation
-
-This is a project about an implementation of the Quantum Longest Common Substring algorithm, from the paper
+This repository is related to an upcoming paper for the [QUASAR26](https://sites.google.com/view/quasar26) conference, 
+which is about an actual implementation of the Quantum Longest Common Substring algorithm, from the paper
 
 > *Domenico Cantone, Simone Faro, Arianna Pavone, Caterina Viola,
   Quantum algorithms for longest common and palindromic substrings in the circuit model*.
