@@ -1,5 +1,9 @@
 # A Quantum Longest Common Substring Implementation
-This repository is related to an upcoming paper for the [QUASAR26](https://sites.google.com/view/quasar26) conference, 
+This repository is related to the upcoming paper 
+> *Riccardo Cantone, Giuseppe Falci, Simone Faro, Luigi Giannelli, Arianna Pavone, Damiano Trovato, Caterina Viola,
+> Quantum LCS in Practice: Circuits, Optimizations, and Evaluation*.
+
+for the [QUASAR26](https://sites.google.com/view/quasar26) conference, 
 which is about an actual implementation of the Quantum Longest Common Substring algorithm, from the paper
 
 > *Domenico Cantone, Simone Faro, Arianna Pavone, Caterina Viola,
