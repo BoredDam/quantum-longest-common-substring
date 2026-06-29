@@ -43,3 +43,17 @@ quantum-longest-common-substring/
     └── for-testing.ipynb
 ```
 
+## To cite this work
+
+```
+@conference{20.500.11769_715911,
+    author = {Cantone, Riccardo and Falci, Giuseppe and Faro, Simone and Giannelli, Luigi and Pavone, Arianna and Trovato, Damiano and Viola, Caterina},
+    title = {Quantum LCS in Practice: Circuits, Optimizations, and Evaluation},
+    year = {2026},
+    publisher = {ACM},
+    address = {New York},
+    booktitle = {Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2026), July 13–16, 2026, Cleveland, OH, USA},
+    url = {https://doi.org/10.1145/3806645.3816161},
+    doi = {10.1145/3806645.3816161}
+}
+```
